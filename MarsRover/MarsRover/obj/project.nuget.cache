@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+35o9V2ucHEPJrmZsPtP9WyCW/FuteQlBZBAeghXujbFCIQ54wm47nX1jVpFyywPb4CfAjmEdb9tehEsiQp3Q==",
+  "dgSpecHash": "4xyI/XJLZ6RuEg+JvC2BrSQUHwznBs2CtPt6rgljbTxpbWL5cBUonkA/hm2FeoDSKLVPH7A3XiXhTPkAGz5naA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\MARS\\MarsRover\\MarsRover\\MarsRover.csproj",
+  "projectFilePath": "D:\\testGit\\MarsRoverAlgorithm\\MarsRover\\MarsRover\\MarsRover.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
